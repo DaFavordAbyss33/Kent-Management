@@ -1,5 +1,4 @@
-// Author: Quenty
-// Intent: Helps auto-rank members
+
 
 var objectAssign = require('object-assign');
 var express = require('express');
